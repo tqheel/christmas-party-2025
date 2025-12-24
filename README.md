@@ -21,6 +21,8 @@ Ho ho ho! Welcome to the festive repository for the 2025 Christmas party cocktai
 
 This repository was crafted with the help of GitHub Copilot, your AI sidekick for coding and creativity. Copilot handled the technical heavy lifting – from writing Python scripts for document conversion to organizing the cocktail data. But a huge shoutout to Todd for the inspiration, guidance, and goals that made this festive project come to life! 🎉
 
+And hey, let's be real – this repo is totally overengineered for a simple cocktail menu! Who needs Python scripts and pandoc for holiday drinks? But it's all in good fun, demonstrating how AI can turn even the most frivolous tasks into a full-blown project. Cheers to creativity! 🥂
+
 ## 🥂 Cheers!
 
 May your holidays be merry, your cocktails be strong, and your code be bug-free. If you find this repo useful, star it and share the holiday cheer!

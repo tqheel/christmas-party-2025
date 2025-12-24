@@ -13,6 +13,7 @@ This repository manages cocktail recipes and menus for a Christmas party. It con
 - **Convert to Word**: Run `python convert_to_word.py` to generate `drinks.docx`, `menu.docx`, `coquito.docx`
 - **Convert Back**: Run `python reverse_convert.py` to update md files from docx
 - **Dependencies**: Install via `pip install pypandoc`; ensure pandoc is installed system-wide
+- **Committing Changes**: Ensure all modified or new files are saved to disk. Update `CHANGELOG.md` with notable changes before committing. It is acceptable to push to the remote repository after committing.
 
 ## Project Conventions
 - **Markdown Structure**: Use `#` for titles, `##` for sections, `-` for lists (e.g., ingredients in `menu.md`)

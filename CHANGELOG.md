@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated `.github/copilot-instructions.md` with committing workflow guidelines
 - Moved markdown files to `content/` directory
 - Modified conversion scripts to dynamically scan `content/` for files instead of hardcoding filenames
+- Moved docx files to `content/` directory for consistent file locations
 
 ## [1.0.0] - 2025-12-24
 
